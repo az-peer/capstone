@@ -17,5 +17,5 @@ that can automatically process protein diffraction images. The goal of this proj
 train new AI models to recognize the geometry of the of the images. An example of one of the images looks like. 
 
 <p align="center" style="margin-top: 40px;">
-  <img src="https://proteindiffraction.org/media/datasets/FRS007_01_1_00001_eTCnsAP.300x300.png" width="700" height="250" style="object-fit: cover;" />
+  <img src="https://proteindiffraction.org/media/datasets/FRS007_01_1_00001_eTCnsAP.300x300.png" width="300" height="300" style="object-fit: cover;" />
 </p>
