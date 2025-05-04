@@ -19,3 +19,10 @@ train new AI models to recognize the geometry of the of the images. An example o
 <p align="center" style="margin-top: 40px;">
   <img src="https://proteindiffraction.org/media/datasets/FRS007_01_1_00001_eTCnsAP.300x300.png" width="300" height="300" style="object-fit: cover;" />
 </p>
+
+## Key Objectives
+
+- **Group 1**:
+  - Train deep learning models on crystal diffraction images as a supervised learning problem.
+  - Predict the exact center of the image.
+  - Detect misalignment.
