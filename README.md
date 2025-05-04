@@ -16,4 +16,6 @@ energy production. Recently we are using artificial intelligence to build comput
 that can automatically process protein diffraction images. The goal of this project will be to
 train new AI models to recognize the geometry of the of the images. An example of one of the images looks like. 
 
-https://www.researchgate.net/profile/Wonchull-Kang/publication/41399796/figure/fig2/AS:607772261498880@1521915607172/Diffraction-image-obtained-on-Pohang-Light-Source-beamline-4A-The-crystal-todetector.png
+<p align="center" style="margin-top: 40px;">
+  <img src="https://www.researchgate.net/profile/Wonchull-Kang/publication/41399796/figure/fig2/AS:607772261498880@1521915607172/Diffraction-image-obtained-on-Pohang-Light-Source-beamline-4A-The-crystal-todetector.png" width="700" height="250" style="object-fit: cover;" />
+</p>
