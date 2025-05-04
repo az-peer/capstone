@@ -7,3 +7,12 @@
 ## Collaborators 
 Azfal Peermohammed, Haoran Yan, Jade Thai, Chris Zhao, David Lin, Kylie Maeda, Sichen Zhong
 
+## About 
+In protein X-ray crystallography, protein crystals are exposed to bright sources of X-rays, and
+the resulting diffraction patterns are recorded on two-dimensional images. By processing the
+images, researchers can obtain atomic-scale information about the protein’s structure. This is
+invaluable for our understanding of how proteins operate in, for example, therapeutics or
+energy production. Recently we are using artificial intelligence to build computational models
+that can automatically process protein diffraction images. The goal of this project will be to
+train new AI models to recognize the geometry of the of the images. An example of one of the images looks like. 
+
